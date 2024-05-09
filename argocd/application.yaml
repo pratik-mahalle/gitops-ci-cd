@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     #Your repo link here
-    repoURL: https://github.com/kaiwalyakoparkar/gitops-ci-cd.git
+    repoURL: https://github.com/pratik-mahalle/gitops-ci-cd.git
     targetRevision: HEAD
     #Location where the manifests are stored
     path: kubernetes/
